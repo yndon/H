@@ -1,3 +1,5 @@
+# Qr code
+<img src="https://github.com/yndon/Hydrogen/assets/161561963/819ed26c-3431-44ff-924b-0758a90c274f" width=200 height=200/>
 
 # 氫能源是什麼？
 
