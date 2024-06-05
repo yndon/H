@@ -40,16 +40,16 @@
 藍氫與灰氫一樣，同為利用石化燃料產生氫氣，但在排放碳的過程中，會加入「碳捕集（或稱碳捕捉）程序」，將產生出的二氧化碳封存，降低對大氣的污染。簡單來說，只要在氫氣製作過程中，加入碳捕集技術的氫氣，就能稱之為「藍氫」。
 
 * **綠氫**
-原料為水，利用再生能源將水電解後產生氫氣，過程中幾乎不會產生碳排量，是最環保的氫氣製造方式，但因為再生能源的產能不穩定，也是目前成本最高的氫氣。
+原料為水，利用再生能源將水電解後產生氫氣，過程中幾乎不會產生碳排量，是最環保的氫氣製造方式，但因為再生能源的產能不穩定，也是目前成本最高的氫氣。<br>
 
-![image](https://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2023/07/28/20230728-112247_U26547_M875340_9c8b.jpg?itok=YmPUE64M)
+<img src="https://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2023/07/28/20230728-112247_U26547_M875340_9c8b.jpg?itok=YmPUE64M" width=800 height=500/>
 
-氫氣能源取得氫氣的方式。圖片來源：shutterstock
+氫氣能源取得氫氣的方式  圖片來源：shutterstock
 
 # 「氫」在車壇的發展
 自石油危機以來，各大車廠一直致力於尋找能取代汽油的新一代能源。除了目前備受關注的電動汽車外，使用可燃氣體作為燃料供給內燃機的方案也曾是市場的寵兒。談到這裡，許多讀者可能已經猜到我們要介紹的內容——正是曾在台灣計程車界掀起風潮的「液化石油氣（LPG）」。在油價升至30元/升的年代，LPG以不到20元/公斤的價格，成為精打細算的計程車司機節省成本的理想選擇。遍布各地的加氣站便是這一歷史的見證。然而，隨著車輛技術的發展和油價的波動，LPG最終退出了歷史舞台。
 談到氫氣作為燃料的概念，主要有兩種應用方式。其一是將氫氣直接注入內燃機燃燒，即「氫內燃機」，這種方式無需對現有部件進行大幅改動，即可提供直接的動力輸出。另一種是通過氫氣的化學反應產生電力的「燃料電池（Fuel Cell）」，這種方式以發電為主，通常需要配合電動馬達和電池，構成電動汽車的主要應用模式。<br>
-![image](https://www.carstar.com.tw:8443/downloadFileByUploadPath?uploadPath=news/1703814308767_5a0i.png)
+<img src="https://www.carstar.com.tw:8443/downloadFileByUploadPath?uploadPath=news/1703814308767_5a0i.png" width=800 height=500/>
  
 # 燃料電池
 氫內燃機因為材料和成本的限制，目前還有不少挑戰。而前面提到的燃料電池（Fuel Cell）則是通過氫氣的氧化反應來產生電力。簡單來說，氫氣在燃料電池中被氧化，產生電子（負電荷）和離子（正電荷）。燃料電池中的電解液只允許離子通過，所以電子必須通過導線流向負極，這時就產生了電流。當把多個燃料電池堆疊在一起，就能產生足夠的電流和電壓。
@@ -67,7 +67,20 @@
 | 氫能供給     | 氫能料源穩定供應                                            |
 | 氫能基礎建設 | 建立氫氣配基礎建設<br>建立氫氣高壓輸、儲基礎技術及設施<br>完善國內氫氣憶樺等書儲基礎設施 |
 
-資料來源：國家發展委員會臺灣2050淨零排放十二項關鍵戰略。
+資料來源：國家發展委員會臺灣2050淨零排放十二項關鍵戰略。<br>
+
+# 2024台北車展《Toyota H2 City Gold》低底盤氫能巴士
+
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrNrT2M6bow.webp" width=800 height=500/><br>
+Toyota總代理和泰汽車12月28日於《2024台北新車暨新能源車特展》舉辦TOYOTA H2 CITY GOLD預賞會，搶先亮相即將於明年正式上市的TOYOTA低底盤氫能巴士—H2 City Gold。此款車型搭載TOYOTA的氫燃料電池系統，10分鐘即可充滿37.5 kg的氫氣，提供450km的極佳續航力。
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpaumqpzLpw.webp" width=800 height=500/>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpanSqJ3Pow.webp" width=800 height=500/><br>
+
+H2 City Gold是TOYOTA與葡萄牙廠商Caetano攜手合作開發，並已在歐洲多個城市運行，包括葡萄牙、西班牙、德國、英國、丹麥等地。車型配備與TOYOTA Mirai相同的氫燃料電池系統， 行駛過程中，除了H2O外，不會排放任何廢氣，能有效改善巴士沿線的都市環境，而為了車輛的安全性，H2. City Gold的氫燃料電池堆、氫氣瓶皆設計置於車頂，配合氫氣感應器及自動滅火裝置，只要系統偵測到氫氣外洩，即會自動切斷氫氣供應並啟動自動滅火裝置，多道防護確保乘客安全。<br>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDraSfq5_cpg.webp" width=800 height=500/>
+
+H2 City Gold裝備有高達37.5公斤的氫氣，加氫過程僅需10分鐘，而其續航力更達450公里。動力系統方面，車輛搭載了60kW的燃料電池、180kW的動力馬達，以及44kWh的鋰電池組。同時，車輛配置了ABS、EBS、ASR、ESC等一系列安全裝備，符合歐洲最高等級的安全標準。氫能載具短加氫時間、長續航力的特點，能大幅提升客運業者車輛調度及場站規劃的營運彈性。<br>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrabUpqHN0A.webp" width=800 height=500/>
 
 # 影片資訊
 <a href="https://youtu.be/2-zLJjk4E_A" target="_blank">
