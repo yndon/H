@@ -83,6 +83,15 @@ H2 City Gold裝備有高達37.5公斤的氫氣，加氫過程僅需10分鐘，�
 <img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrabUpqHN0A.webp" width=800 height=500/>
 
 # 影片資訊
+**【流行科學】電動車非想像中環保？氫能車勢成未來主流車！**
+
 <a href="https://youtu.be/2-zLJjk4E_A" target="_blank">
 <img src="https://github.com/yndon/Hydrogen/assets/161561963/b7a7665b-887c-4c0e-9fc5-72a7dc9b326d"width="400" height="250" border="10"/><br>
-資料來源：【流行科學】電動車非想像中環保？氫能車勢成未來主流車！ <a href="https://www.hk01.com/article/825492/">
+資料來源：https://www.hk01.com/article/825492/<br>
+
+
+<br>**台灣第一輛氫能巴士獨家曝光！比電動車環保？氫能車單趟跑上千公里**
+
+<a href="https://youtu.be/A9SJoUKArCQ" target="_blank">
+<img src="https://github.com/yndon/Hydrogen/assets/161561963/2f13a89f-6c05-4632-b005-c46c8d2f9dc7" width="400" height="250" border="10"/>
+ <br>資料來源:yotube影像
