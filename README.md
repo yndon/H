@@ -11,12 +11,13 @@
 
 **氫原子具有高度活性，一般會以化合物的形式存在於大氣中，例如常見的水（H₂O）、甲烷（CH₄）、乙醇（C₂H₆O）等因此，想要利用氫能發電，就需要先將氫（H2）從以上化合物中提取出來，而目前廣泛應用的製氫技術，有電解法與蒸氣重組法兩種。**
 
-![image](http://dev.iifun.com.tw/TFCI/files/file_pool/1/0L280412595440778705/img-fc.jpg)
+<img src="https://reurl.cc/vaXjLa" width=200 height=200/>
+
 
 # 關於「氫」的基本知識
 氫（Hydrogen, H）做為元素週期表中最輕的元素，是宇宙中相當常見的化學物質，由於其易於與非金屬元素行程共價鍵，因此地球上的「氫」多以分子的形式存在，像是佔有地球表面積75%以上的水，其分子式「H?O」當中就含有一個氫分子；而在地球上最常見的氫分子組成乃是「氫氣」，在標準溫度和壓力之下形成雙原子分子，分子式為「H?」，是無色、無味、無臭的非金屬氣體，高度易燃的特性雖然是優異的燃燒介質，但在儲存與運輸上可是有著較嚴苛的要求。
 
-<img src="https://img.okweb.asia/webseekfun0002/images/product/images/16795582779_16795615130_.jpg" width=500 height=300/>
+<img src="https://img.okweb.asia/webseekfun0002/images/product/images/16795582779_16795615130_.jpg" width=400 height=250/>
 
 # 「氫」很好用、也很難「送」
 氣體的體積龐大，儲存及運輸需要考量的地方不少，單純A到B點的運輸，多半會採取地下管線的方式，而若需彈性移動的話，則多半會採取液態的形式，不僅能有效降低儲存後的體積，在運輸上也有高便利性的考量；對於不同種類的氣體，則可使用不同方式轉換為液態，在日常生活中最為常見的液態氣體就是液態石油氣（LPG），即是使用鋼瓶做為儲存媒介。
@@ -42,14 +43,14 @@
 * **綠氫**
 原料為水，利用再生能源將水電解後產生氫氣，過程中幾乎不會產生碳排量，是最環保的氫氣製造方式，但因為再生能源的產能不穩定，也是目前成本最高的氫氣。<br>
 
-<img src="https://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2023/07/28/20230728-112247_U26547_M875340_9c8b.jpg?itok=YmPUE64M" width=800 height=500/>
+<img src="https://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2023/07/28/20230728-112247_U26547_M875340_9c8b.jpg?itok=YmPUE64M" width=400 height=250/>
 
 氫氣能源取得氫氣的方式  圖片來源：shutterstock
 
 # 「氫」在車壇的發展
 自石油危機以來，各大車廠一直致力於尋找能取代汽油的新一代能源。除了目前備受關注的電動汽車外，使用可燃氣體作為燃料供給內燃機的方案也曾是市場的寵兒。談到這裡，許多讀者可能已經猜到我們要介紹的內容——正是曾在台灣計程車界掀起風潮的「液化石油氣（LPG）」。在油價升至30元/升的年代，LPG以不到20元/公斤的價格，成為精打細算的計程車司機節省成本的理想選擇。遍布各地的加氣站便是這一歷史的見證。然而，隨著車輛技術的發展和油價的波動，LPG最終退出了歷史舞台。
 談到氫氣作為燃料的概念，主要有兩種應用方式。其一是將氫氣直接注入內燃機燃燒，即「氫內燃機」，這種方式無需對現有部件進行大幅改動，即可提供直接的動力輸出。另一種是通過氫氣的化學反應產生電力的「燃料電池（Fuel Cell）」，這種方式以發電為主，通常需要配合電動馬達和電池，構成電動汽車的主要應用模式。<br>
-<img src="https://www.carstar.com.tw:8443/downloadFileByUploadPath?uploadPath=news/1703814308767_5a0i.png" width=800 height=500/>
+<img src="https://www.carstar.com.tw:8443/downloadFileByUploadPath?uploadPath=news/1703814308767_5a0i.png" width=400 height=250/>
  
 # 燃料電池
 氫內燃機因為材料和成本的限制，目前還有不少挑戰。而前面提到的燃料電池（Fuel Cell）則是通過氫氣的氧化反應來產生電力。簡單來說，氫氣在燃料電池中被氧化，產生電子（負電荷）和離子（正電荷）。燃料電池中的電解液只允許離子通過，所以電子必須通過導線流向負極，這時就產生了電流。當把多個燃料電池堆疊在一起，就能產生足夠的電流和電壓。
@@ -71,30 +72,30 @@
 
 # 2024台北車展《Toyota H2 City Gold》低底盤氫能巴士
 
-<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrNrT2M6bow.webp" width=800 height=500/><br>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrNrT2M6bow.webp" width=400 height=250/><br>
 Toyota總代理和泰汽車12月28日於《2024台北新車暨新能源車特展》舉辦TOYOTA H2 CITY GOLD預賞會，搶先亮相即將於明年正式上市的TOYOTA低底盤氫能巴士—H2 City Gold。此款車型搭載TOYOTA的氫燃料電池系統，10分鐘即可充滿37.5 kg的氫氣，提供450km的極佳續航力。
-<img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpaumqpzLpw.webp" width=800 height=500/>
-<img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpanSqJ3Pow.webp" width=800 height=500/><br>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpaumqpzLpw.webp" width=400 height=250/>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpanSqJ3Pow.webp" width=400 height=250/><br>
 
 H2 City Gold是TOYOTA與葡萄牙廠商Caetano攜手合作開發，並已在歐洲多個城市運行，包括葡萄牙、西班牙、德國、英國、丹麥等地。車型配備與TOYOTA Mirai相同的氫燃料電池系統， 行駛過程中，除了H2O外，不會排放任何廢氣，能有效改善巴士沿線的都市環境，而為了車輛的安全性，H2. City Gold的氫燃料電池堆、氫氣瓶皆設計置於車頂，配合氫氣感應器及自動滅火裝置，只要系統偵測到氫氣外洩，即會自動切斷氫氣供應並啟動自動滅火裝置，多道防護確保乘客安全。<br>
-<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDraSfq5_cpg.webp" width=800 height=500/>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDraSfq5_cpg.webp" width=400 height=250/>
 
 H2 City Gold裝備有高達37.5公斤的氫氣，加氫過程僅需10分鐘，而其續航力更達450公里。動力系統方面，車輛搭載了60kW的燃料電池、180kW的動力馬達，以及44kWh的鋰電池組。同時，車輛配置了ABS、EBS、ASR、ESC等一系列安全裝備，符合歐洲最高等級的安全標準。氫能載具短加氫時間、長續航力的特點，能大幅提升客運業者車輛調度及場站規劃的營運彈性。<br>
-<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrabUpqHN0A.webp" width=800 height=500/>
+<img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrabUpqHN0A.webp" width=400 height=250/>
 
 # 影片資訊
 **【流行科學】電動車非想像中環保？氫能車勢成未來主流車！**
 
 <a href="https://youtu.be/2-zLJjk4E_A" target="_blank">
 <img src="https://github.com/yndon/Hydrogen/assets/161561963/b7a7665b-887c-4c0e-9fc5-72a7dc9b326d"width="400" height="250" border="10"/><br>
-資料來源：https://www.hk01.com/article/825492/<br>
+資料來源：https://www.hk01.com/article/825492/</a>
 
 
 <br>**台灣第一輛氫能巴士獨家曝光！比電動車環保？氫能車單趟跑上千公里**
 
 <a href="https://youtu.be/A9SJoUKArCQ" target="_blank">
 <img src="https://github.com/yndon/Hydrogen/assets/161561963/2f13a89f-6c05-4632-b005-c46c8d2f9dc7" width="400" height="250" border="10"/>
- <br>資料來源:yotube影像
+ <br>資料來源:yotube影像</a>
  
 # 工作分配
 | 姓名        | 項目                                                  |貢獻百分比|
