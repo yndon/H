@@ -71,7 +71,9 @@
 # 2024台北車展《Toyota H2 City Gold》低底盤氫能巴士
 
 <img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrNrT2M6bow.webp" width=400 height=250/><br>
+
 Toyota總代理和泰汽車12月28日於《2024台北新車暨新能源車特展》舉辦TOYOTA H2 CITY GOLD預賞會，搶先亮相即將於明年正式上市的TOYOTA低底盤氫能巴士—H2 City Gold。此款車型搭載TOYOTA的氫燃料電池系統，10分鐘即可充滿37.5 kg的氫氣，提供450km的極佳續航力。
+
 <img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpaumqpzLpw.webp" width=400 height=250/>
 <img src="https://images3.kingautos.net/2023/52/5/qaCh05rEpanSqJ3Pow.webp" width=400 height=250/><br>
 
@@ -79,6 +81,7 @@ H2 City Gold是TOYOTA與葡萄牙廠商Caetano攜手合作開發，並已在歐�
 <img src="https://images3.kingautos.net/2023/52/5/qaCh05rDraSfq5_cpg.webp" width=400 height=250/>
 
 H2 City Gold裝備有高達37.5公斤的氫氣，加氫過程僅需10分鐘，而其續航力更達450公里。動力系統方面，車輛搭載了60kW的燃料電池、180kW的動力馬達，以及44kWh的鋰電池組。同時，車輛配置了ABS、EBS、ASR、ESC等一系列安全裝備，符合歐洲最高等級的安全標準。氫能載具短加氫時間、長續航力的特點，能大幅提升客運業者車輛調度及場站規劃的營運彈性。<br>
+
 <img src="https://images3.kingautos.net/2023/52/5/qaCh05rDrabUpqHN0A.webp" width=400 height=250/>
 
 # 影片資訊
