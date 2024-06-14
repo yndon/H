@@ -97,10 +97,12 @@ H2 City Gold裝備有高達37.5公斤的氫氣，加氫過程僅需10分鐘，�
 
 <br>**台灣第一輛氫能巴士獨家曝光！比電動車環保？氫能車單趟跑上千公里**
 
+
 <a href="https://youtu.be/A9SJoUKArCQ" target="_blank">
-<img src="https://i.ytimg.com/an_webp/A9SJoUKArCQ/mqdefault_6s.webp?du=3000&sqp=CMyvh7MG&rs=AOn4CLAxUgqcImrLb0j9nIYkH_J5CmCwcA" 
- width="400" height="250" border="10"/>
- <br>資料來源:yotube影像</a>
+  <img src="https://img.youtube.com/vi/A9SJoUKArCQ/maxresdefault.jpg" 
+    width="400" height="250" border="10"/>
+  <br>資料來源: YouTube影像
+</a>
  
 # 工作分配
 | 姓名        | 項目                                                  |貢獻百分比|
